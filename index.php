@@ -20,9 +20,9 @@
         <li><a href="php/eventos.php">Eventos</a></li>
         <li><a href="php/actividades.php">Educación</a></li>
         <li><a href="php/anfibios.php">Anfibios</a></li>
-        <li><a href="php/reptiles">Reptiles</a></li>
-        <li><a href="#">Mamíferos</a></li>
-        <li><a href="#">Aves</a></li>
+        <li><a href="php/reptiles.php">Reptiles</a></li>
+        <li><a href="php/mamiferos.php">Mamíferos</a></li>
+        <li><a href="php/aves.php">Aves</a></li>
       </ul>
     </nav>
     <nav class="navPr">
@@ -43,7 +43,7 @@
         <div class="menu"><a href="php/eventos.php" class="menup ">Evento</a></div>
         <div class="menu"><a href="php/actividades.php" class="menup ">Educación</a></div>
     </nav>
-    <div id="carouselExampleSlidesOnly " class="carousel slide " data-bs-ride="carousel">
+    <div id="carouselExampleSlidesOnly " class="carousel slide portadaPri" data-bs-ride="carousel">
       <div class="carousel-inner portada-zoo">
         <div class="carousel-item active">
           <img src="./img/zoo-portada1.png" class="d-block w-100" alt="Zoo">

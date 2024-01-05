@@ -274,4 +274,19 @@
   #check:checked ~ ul{
     left:0;
   }
+  .contenedor-informacion{
+    display:block;
+    margin-top:5px;
+
+    
+  }
+  .contenedor-informacion>div{
+    width:90%
+      
+    
+  }
+  .portadaPri{
+    height:200px;
+
+  }
 }

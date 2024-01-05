@@ -29,6 +29,7 @@
 <body>
   <!--Cabecera -->
    <?php include "navegacion.php";?>
+  <?php include "navegacionM.php";?>
 <!-- CARRUSEL SAPO COMUN-->
 <div class="modal fade" id="myModal" tabindex="-1" data-backdrop="static" data-keyboard="true" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg modal-dialog-centered">
