@@ -21,14 +21,17 @@
       integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
       crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="../../css/categoria/modal.css">
-    <link rel="stylesheet" href="../../css/categoria/categoria.css">
-   <link rel="stylesheet" href="../../css/estilos.css" type="text/css">
+    <link rel="stylesheet" href="../css/categoria/modal.css">
+    <link rel="stylesheet" href="../css/categoria/categoria.css">
+   <link rel="stylesheet" href="../css/estilos.css" type="text/css">
 
 </head>
 <body>
   <!--Cabecera -->
    <?php include "navegacion.php";?>
+   <?php include "navegacionM.php";?>
+
+  
 <!-- CARRUSEL Oso de anteojos (Tremarctos ornatus)-->
 <div class="modal fade" id="myModal" tabindex="-1" data-backdrop="static" data-keyboard="true" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg modal-dialog-centered">
@@ -50,7 +53,7 @@
 
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
-                                <img src="../../img/categoria/mamifero/oso1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
+                                <img src="../img/categoria/mamifero/oso1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h3>Pelaje y Marcas Faciales</h3>
                                     <p>El oso de anteojos tiene un pelaje denso y corto, que varía en color desde negro a marrón oscuro. Una de sus características más distintivas es la banda blanca que cruza su hocico y rodea sus ojos, pareciendo que lleva anteojos, de ahí su nombre común.</p>
@@ -58,7 +61,7 @@
                             </div>
 
                             <div class="item">
-                                <img src="../../img/categoria/mamifero/oso2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                <img src="../img/categoria/mamifero/oso2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h3>Construcción Corporal</h3>
                                     <p>Son osos de tamaño mediano, con cuerpos robustos y patas fuertes. Los machos tienden a ser más grandes que las hembras. Tienen garras fuertes y curvadas que les ayudan en actividades como trepar árboles en busca de alimentos.</p>
@@ -66,7 +69,7 @@
                             </div>
 
                             <div class="item">
-                                <img src="../../img/categoria/mamifero/oso3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                <img src="../img/categoria/mamifero/oso3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                 <div class="carousel-caption d-none d-md-block"><br>
                                     <h3>Hábitos Alimenticios</h3>
                                     <p>La dieta del oso de anteojos es omnívora, pero su alimentación está dominada por plantas. Se alimenta de frutas, brotes, bromelias, raíces, y en ocasiones, pequeños mamíferos y carroña. Su capacidad para trepar árboles les permite acceder a recursos alimenticios que otros osos no pueden alcanzar.</p>
@@ -110,7 +113,7 @@
 
                           <div class="carousel-inner" role="listbox">
                               <div class="item active">
-                                  <img src="../../img/categoria/mamifero/conejo1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/mamifero/conejo1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Tamaño y Morfología</h3>
                                       <p>El Conejo de los Andes es de tamaño mediano, con un cuerpo compacto y orejas relativamente cortas. Su longitud y altura varían, pero en general, tienen un aspecto robusto y adaptado a su entorno de alta montaña.</p>
@@ -118,7 +121,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/mamifero/conejo2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/mamifero/conejo2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Pelaje</h3>
                                       <p>Su pelaje es denso y suave, adaptado a las condiciones climáticas de su hábitat. La coloración del pelaje puede variar, pero generalmente se camufla con los tonos de su entorno, proporcionándoles cierta protección contra depredadores.</p>
@@ -126,7 +129,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/mamifero/conejo3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/mamifero/conejo3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block"><br>
                                       <h3>Hábitos Alimenticios y Comportamiento</h3>
                                       <p>Son animales herbívoros que se alimentan de una variedad de plantas, hierbas y brotes disponibles en su entorno. Son principalmente crepusculares y nocturnos, lo que significa que son más activos durante el amanecer y el anochecer. Su comportamiento suele ser discreto, y tienden a ser solitarios, aunque pueden formar grupos sociales pequeños en ocasiones.</p>
@@ -171,7 +174,7 @@
 
                           <div class="carousel-inner" role="listbox">
                               <div class="item active">
-                                  <img src="../../img/categoria/mamifero/murcielago1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/mamifero/murcielago1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Tamaño y Morfología</h3>
                                       <p>El Murciélago de Thomas es de tamaño mediano en comparación con otras especies de murciélagos. Presenta alas largas y estrechas, adaptadas para el vuelo ágil, y orejas relativamente grandes.</p>
@@ -179,7 +182,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/mamifero/murcielago2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/mamifero/murcielago2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Localización y Hábitat </h3>
                                       <p>Este murciélago es endémico de los Andes ecuatorianos y se encuentra en elevaciones moderadas. Habita en diferentes tipos de bosques, desde bosques montanos hasta bosques nublados, buscando refugio en grietas rocosas, cuevas o estructuras abandonadas durante el día.</p>
@@ -187,7 +190,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/mamifero/murcielago3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/mamifero/murcielago3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block"><br>
                                       <h3>Hábitos Alimenticios y Ecolocación</h3>
                                       <p>El Murciélago de Thomas se alimenta principalmente de insectos, utilizando la ecolocación para detectar presas mientras vuela durante la noche. Su dieta puede incluir una variedad de insectos, como escarabajos, polillas y mosquitos.</p>
@@ -231,7 +234,7 @@
 
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
-                                    <img src="../../img/categoria/mamifero/zari1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
+                                    <img src="../img/categoria/mamifero/zari1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h3>Pelaje y Morfología</h3>
                                         <p>La Zarigüeya de Thomas tiene un pelaje denso y oscuro, adaptado a su entorno en bosques húmedos. Su cuerpo es alargado y su cola es larga y prensil, lo que le permite trepar árboles y equilibrarse.</p>
@@ -239,7 +242,7 @@
                                 </div>
 
                                 <div class="item">
-                                    <img src="../../img/categoria/mamifero/zari2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                    <img src="../img/categoria/mamifero/zari2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h3>Hábitos Alimenticios</h3>
                                         <p>La Zarigüeya de Thomas es omnívora y se alimenta de una variedad de alimentos, incluyendo frutas, insectos, pequeños vertebrados y carroña. Su dieta versátil le permite adaptarse a diferentes recursos alimenticios en su entorno.</p>
@@ -247,7 +250,7 @@
                                 </div>
 
                                 <div class="item">
-                                    <img src="../../img/categoria/mamifero/zari3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                    <img src="../img/categoria/mamifero/zari3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                     <div class="carousel-caption d-none d-md-block"><br>
                                         <h3>Comportamiento Nocturno</h3>
                                         <p>Es una especie nocturna, lo que significa que es más activa durante la noche. Durante el día, se refugia en árboles, cuevas u otras estructuras para descansar y evitar a los depredadores.</p>
@@ -274,7 +277,7 @@
 // Tu código PHP aquí
 
 echo '<div class="animal-info">
-        <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/mamifero/oso.jpg"
+        <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/mamifero/oso.jpg"
             alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal"></div>
         <div class="animal-details">
           <h3 class="titulo_animal">Oso de anteojos (Tremarctos ornatus)</h3>
@@ -295,7 +298,7 @@ echo '<div class="animal-info">
       </div>';
 
   echo '<div class="animal-info">
-    <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/mamifero/conejo.jpg"
+    <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/mamifero/conejo.jpg"
         alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal1"></div>
     <div class="animal-details">
       <h3 class="titulo_animal">Conejo de los Andes (Sylvilagus andinus)</h3>
@@ -316,7 +319,7 @@ echo '<div class="animal-info">
   </div>';
 
    echo '<div class="animal-info">
-      <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/mamifero/murcielago.jpg"
+      <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/mamifero/murcielago.jpg"
           alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal2"></div>
       <div class="animal-details">
         <h3 class="titulo_animal">Murciélago de Thomas (Platyrrhinus dorsalis)</h3>
@@ -337,7 +340,7 @@ echo '<div class="animal-info">
     </div>';
 
    echo '<div class="animal-info">
-      <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/mamifero/zari.jpg"
+      <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/mamifero/zari.jpg"
           alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal3"></div>
       <div class="animal-details">
         <h3 class="titulo_animal">Zarigüeya de Thomas (Didelphis pernigra)</h3>

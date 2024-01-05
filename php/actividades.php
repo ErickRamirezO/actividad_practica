@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="../css/estilos.css" type="text/css">
   <body>
     <!--Cabecera -->
+    <?php include "navegacionM.php";?>
      <?php include "navegacion.php";?>
     <div class="portada3">
 

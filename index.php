@@ -9,8 +9,23 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
   </head>
   <body>
-    
-    <nav>
+    <nav class="navNuevo">
+      <input type="checkbox" id="check">
+      <label for="check" class="checkbtn">
+        <i>&#9776;</i>
+      </label>
+      <ul>
+        <li><a class="activate " href="#">Inicio</a></li>
+        <li><a href="php/horarios.php">Horario</a></li>
+        <li><a href="php/eventos.php">Eventos</a></li>
+        <li><a href="php/actividades.php">Educación</a></li>
+        <li><a href="php/anfibios.php">Anfibios</a></li>
+        <li><a href="php/reptiles">Reptiles</a></li>
+        <li><a href="#">Mamíferos</a></li>
+        <li><a href="#">Aves</a></li>
+      </ul>
+    </nav>
+    <nav class="navPr">
       <div class="logo">
         <img src="img/logo.png" alt="Nombre del Logo">
       </div>
@@ -31,13 +46,13 @@
     <div id="carouselExampleSlidesOnly " class="carousel slide " data-bs-ride="carousel">
       <div class="carousel-inner portada-zoo">
         <div class="carousel-item active">
-          <img src="../img/zoo-portada1.png" class="d-block w-100" alt="Zoo">
+          <img src="./img/zoo-portada1.png" class="d-block w-100" alt="Zoo">
         </div>
         <div class="carousel-item">
-          <img src="../img/zoo-portada2.jpg" class="d-block w-100" alt="Leon">
+          <img src="./img/zoo-portada2.jpg" class="d-block w-100" alt="Leon">
         </div>
         <div class="carousel-item">
-          <img src="../img/zoo-portada3.jpeg" class="d-block w-100" alt="Oso">
+          <img src="./img/zoo-portada3.jpeg" class="d-block w-100" alt="Oso">
         </div>
       </div>
     </div>
@@ -49,7 +64,7 @@
     </p>
             </div>
             <div class="">
-                <img src="../img/img1.jpg" alt="">
+                <img src="./img/img1.jpg" alt="">
             </div>
         </div>
 
@@ -101,8 +116,5 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
     <script src="js/slider.js"></script>
-    <script>
-      M.AutoInit();
-    </script>
   </body>
 </html>

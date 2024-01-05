@@ -1,4 +1,4 @@
-<nav>
+<nav class="navPr">
   <div class="logo">
     <img src="../img/logo.png" alt="Nombre del Logo">
   </div>

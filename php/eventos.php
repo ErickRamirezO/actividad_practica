@@ -11,6 +11,7 @@
 </head>
 <body>
   <?php include "navegacion.php";?>
+  <?php include "navegacionM.php";?>
     <div class="portada2">
 
     </div>

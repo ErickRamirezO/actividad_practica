@@ -1,4 +1,12 @@
-nav {
+*{
+  padding: 0;
+  margin:0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.navPr {
     width: 100% ;
     height: 50px;
     display: flex !important;
@@ -199,4 +207,71 @@ nav {
   background:linear-gradient(to right, #ff6a00, #ee0979)!important;
   padding: 1px 0!important;
   text-align:center;
+}
+#check{
+  display: none;
+}
+.navNuevo{
+  display:none;
+}
+@media (max-width:800px){
+  .navPr{
+    display:none!important;
+  }
+  .navNuevo{
+    display:block;
+    background:linear-gradient(to right, #ff6a00, #ee0979)!important;
+    height: 80px;
+    width: 100%;
+  }
+  
+  .enlace{
+    position: absolute;
+
+  }
+  .navNuevo ul{
+    float: right;
+    margin-right:20px;
+  }
+
+  .checkbtn{
+    font-size: 30px;
+    color: #fff;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    text-align: center;
+  }
+
+  ul{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(to right, #ff6a00, #ee0979)!important;
+    top:80px;
+    left: -100%;
+    text-align: center;
+    transition: all .5s;
+    z-index:9999;
+  }
+  .navNuevo a{
+    text-decoration:none;
+    color:white;
+  }
+
+  .navNuevo ul li{
+    display: block;
+    margin: 10px 0;
+  }
+
+  .navNuevo ul li a{
+    font-size: 20px;
+  }
+  li a:hover, li a.activate{
+    background: none;
+    color: black;
+  }
+  #check:checked ~ ul{
+    left:0;
+  }
 }

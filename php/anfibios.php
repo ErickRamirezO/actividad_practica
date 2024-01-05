@@ -21,9 +21,9 @@
       integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
       crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="../../css/categoria/modal.css">
-    <link rel="stylesheet" href="../../css/categoria/categoria.css">
-  <link rel="stylesheet" href="../../css/estilos.css" type="text/css">
+    <link rel="stylesheet" href="../css/categoria/modal.css">
+    <link rel="stylesheet" href="../css/categoria/categoria.css">
+  <link rel="stylesheet" href="../css/estilos.css" type="text/css">
   
 </head>
 <body>
@@ -58,7 +58,7 @@
                             </div>
 
                             <div class="item">
-                                <img src="../../img/categoria/anfibios/sapoComun2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                <img src="../img/categoria/anfibios/sapoComun2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h3>Ojos prominentes</h3>
                                     <p>Los sapos comunes generalmente tienen ojos grandes y saltones, lo que les proporciona una visión panorámica y les ayuda a detectar presas o posibles amenazas. Estos ojos prominentes son una característica común en muchos anuros.</p>
@@ -66,7 +66,7 @@
                             </div>
 
                             <div class="item">
-                                <img src="../../img/categoria/anfibios/sapoComun3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                <img src="../img/categoria/anfibios/sapoComun3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                 <div class="carousel-caption d-none d-md-block"><br>
                                     <h3>Glándulas parótidas</h3>
                                     <p>En la parte posterior de la cabeza, los sapos poseen glándulas parótidas que secretan sustancias tóxicas. Estas toxinas pueden causar irritación en la piel o mucosas de posibles depredadores, brindando así una forma de defensa pasiva.</p>
@@ -110,7 +110,7 @@
 
                           <div class="carousel-inner" role="listbox">
                               <div class="item active">
-                                  <img src="../../img/categoria/anfibios/sapoCorredor1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/anfibios/sapoCorredor1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Extremidades posteriores robustas</h3>
                                       <p>Los sapos que son ágiles y tienen habilidades de carrera a menudo tienen extremidades posteriores musculosas y fuertes. Estas les permiten dar saltos largos y rápidos para moverse con agilidad.</p>
@@ -118,7 +118,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/anfibios/sapoCorredor2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/anfibios/sapoCorredor2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Piel adaptada a ambientes terrestres: </h3>
                                       <p>A diferencia de algunas ranas que prefieren hábitats acuáticos, los sapos corredores tienden a tener una piel más seca y adaptada a la vida terrestre. Esto les ayuda a moverse eficientemente en entornos más secos y a evitar la deshidratación.</p>
@@ -126,7 +126,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/anfibios/sapoCorredor3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/anfibios/sapoCorredor3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block"><br>
                                       <h3>Ojos grandes y alerta</h3>
                                       <p>Los sapos corredores suelen tener ojos grandes y alerta que les proporcionan una visión periférica aguda. Esto les ayuda a detectar presas o peligros en su entorno y les permite reaccionar rápidamente, ya sea para cazar o escapar de posibles amenazas.</p>
@@ -171,7 +171,7 @@
 
                           <div class="carousel-inner" role="listbox">
                               <div class="item active">
-                                  <img src="../../img/categoria/anfibios/ranaComun1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/anfibios/ranaComun1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Coloración verde</h3>
                                       <p> Como su nombre indica, la rana común a menudo presenta un color verde brillante en su piel dorsal, aunque la tonalidad puede variar. Esta coloración verde proporciona camuflaje en ambientes acuáticos y terrestres.</p>
@@ -179,7 +179,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/anfibios/ranaComun2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/anfibios/ranaComun2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block">
                                       <h3>Ojos prominentes y membrana timpánica visible </h3>
                                       <p>Las ranas comunes tienen ojos grandes y prominentes que les proporcionan una visión aguda. Además, presentan membranas timpánicas bien visibles a ambos lados de la cabeza, que son estructuras auditivas que les permiten detectar sonidos y comunicarse con otras ranas.</p>
@@ -187,7 +187,7 @@
                               </div>
 
                               <div class="item">
-                                  <img src="../../img/categoria/anfibios/ranaComun3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                  <img src="../img/categoria/anfibios/ranaComun3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                   <div class="carousel-caption d-none d-md-block"><br>
                                       <h3>Vocalización distintiva</h3>
                                       <p>Los machos de rana común son conocidos por su vocalización distintiva durante la temporada de reproducción. Emiten un sonido similar a un "ribbit" para atraer a las hembras. Esta vocalización es una característica común en muchas especies de ranas y es esencial para el cortejo.</p>
@@ -231,7 +231,7 @@
 
                             <div class="carousel-inner" role="listbox">
                                 <div class="item active">
-                                    <img src="../../img/categoria/anfibios/ranaMeridional1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
+                                    <img src="../img/categoria/anfibios/ranaMeridional1.jpg" alt="Ilustracion" class="carrusel_img" style="height: 270px;">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h3>Coloración variable</h3>
                                         <p>La coloración de la ranita meridional puede variar, pero generalmente presenta tonalidades de verde o marrón, lo que le permite camuflarse en su entorno arbóreo.</p>
@@ -239,7 +239,7 @@
                                 </div>
 
                                 <div class="item">
-                                    <img src="../../img/categoria/anfibios/ranaMeridional2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
+                                    <img src="../img/categoria/anfibios/ranaMeridional2.jpg" alt="fotografia" class="carrusel_img" style="height: 270px;">
                                     <div class="carousel-caption d-none d-md-block">
                                         <h3>Tamaño pequeño a mediano</h3>
                                         <p>Las ranitas meridionales son relativamente pequeñas en comparación con algunas otras especies de ranas. Los machos suelen ser más pequeños que las hembras. Su tamaño puede oscilar entre 3 y 5 centímetros de longitud.</p>
@@ -247,7 +247,7 @@
                                 </div>
 
                                 <div class="item">
-                                    <img src="../../img/categoria/anfibios/ranaMeridional3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
+                                    <img src="../img/categoria/anfibios/ranaMeridional3.jpg" alt="pintura" class="carrusel_img" style="height: 270px;">
                                     <div class="carousel-caption d-none d-md-block"><br>
                                         <h3>Hábitat arborícola</h3>
                                         <p>Como su nombre indica, la ranita meridional es principalmente arbórea. Se encuentra comúnmente en bosques, zonas de matorrales y áreas cercanas a cursos de agua. Pasan la mayor parte de su tiempo en árboles y arbustos.</p>
@@ -274,7 +274,7 @@
 // Tu código PHP aquí
 
 echo '<div class="animal-info">
-        <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/anfibios/sapoComun.jpg"
+        <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/anfibios/sapoComun.jpg"
             alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal"></div>
         <div class="animal-details">
           <h3 class="titulo_animal"> Sapo Común</h3>
@@ -295,7 +295,7 @@ echo '<div class="animal-info">
       </div>';
   
   echo '<div class="animal-info">
-    <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/anfibios/sapoCorredor.jpg"
+    <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/anfibios/sapoCorredor.jpg"
         alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal1"></div>
     <div class="animal-details">
       <h3 class="titulo_animal"> Sapo Corredor</h3>
@@ -318,7 +318,7 @@ En época de cría se acerca a las zonas húmedas, pero cualquier charca le sirv
   </div>';
 
    echo '<div class="animal-info">
-      <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/anfibios/ranaComun.jpg"
+      <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/anfibios/ranaComun.jpg"
           alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal2"></div>
       <div class="animal-details">
         <h3 class="titulo_animal"> Rana común o verde (Rana ridibunda)</h3>
@@ -342,7 +342,7 @@ El hábitat de esta especie es sobre cualquier superficie acuática..</p>
     </div>';
 
    echo '<div class="animal-info">
-      <div class="cont_imgAnimal"><img class="animal-image" src="../../img/categoria/anfibios/ranaMeridional.jpg"
+      <div class="cont_imgAnimal"><img class="animal-image" src="../img/categoria/anfibios/ranaMeridional.jpg"
           alt="Imagen del animal" class="btn btn-primary" data-toggle="modal" data-target="#myModal3"></div>
       <div class="animal-details">
         <h3 class="titulo_animal">Ranita meridional (Hyla meridionalis)</h3>
